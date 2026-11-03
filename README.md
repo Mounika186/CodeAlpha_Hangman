@@ -1,6 +1,4 @@
 # CodeAlpha_Hangman
-Python Hangman Game – CodeAlpha Internship
-# CodeAlpha_Hangman
 
 ## Python Hangman Game
 
